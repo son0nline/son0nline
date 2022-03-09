@@ -7,6 +7,8 @@
 
 [![GitHub](https://img.shields.io/github/followers/son0nline?style=social)](https://github.com/son0nline)
 
+[![Stackoverflow](https://stackoverflow.com/users/flair/1306130.png)](https://stackoverflow.com/users/1306130/son0nline)
+
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=son0nline&theme=dark&font=baloo)
 <!--
 **son0nline/son0nline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
