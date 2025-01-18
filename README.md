@@ -9,7 +9,7 @@
 
 [![Stackoverflow](https://stackoverflow.com/users/flair/1306130.png)](https://stackoverflow.com/users/1306130/son0nline)
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=son0nline&theme=dark&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/son0nline?theme=dark&font=Copse)
 <!--
 **son0nline/son0nline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
